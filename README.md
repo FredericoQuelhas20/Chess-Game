@@ -5,8 +5,8 @@ Este projeto tem como objetivo implementar um jogo de xadrez completo em Java, d
 
 ## Equipa de Desenvolvimento
 - Frederico Quelhas
-- Sebastian Gon
-- Ivanilson
+- Sebastian Gonçalves
+- Ivanilson Da Silva
 
 ## Tecnologias Utilizadas
 - **Java** (versão 21 ou superior)
@@ -84,7 +84,7 @@ Este projeto está licenciado sob a Licença MIT - veja o ficheiro LICENSE para 
 
 ## Contacto
 
-Para questões ou colaboração:
+Para questões:
 - **Frederico Quelhas** - [@FredericoQuelhas20](https://github.com/FredericoQuelhas20)
 
 ---
